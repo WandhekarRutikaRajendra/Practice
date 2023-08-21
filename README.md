@@ -1,5 +1,5 @@
 # Practice
-The ** basic code ** is been provided here
+The **basic code** is been provided here
 
 ###### There are  * 3 files *
 *  file1.txt
