@@ -6,4 +6,4 @@ The ** basic code ** is been provided here
 -  file2.txt
 +  file3.txt
 
-* the operations performed are *
+the operations performed are 
