@@ -13,3 +13,4 @@ the operations performed are
 4. push
 5. work on branch
 6. pull
+![image](https://github.com/WandhekarRutikaRajendra/Practice/assets/142422795/40afadc4-981b-4d2b-a03a-dc0e0c5917f1)
