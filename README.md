@@ -5,3 +5,5 @@ The ** basic code ** is been provided here
 *  file1.txt
 *  file2.txt
 *  file3.txt
+
+* the operations performed are *
